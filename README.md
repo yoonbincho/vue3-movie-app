@@ -1,1 +1,1 @@
-# vue3-movie-app
+# Vue3 템플릿 with Webpack
