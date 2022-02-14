@@ -9,7 +9,6 @@
 
 
 <style lang="scss" scoped>
-@import '~/scss/main';
 
 .not-found {
   line-height: 1.2;
